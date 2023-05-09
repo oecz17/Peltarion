@@ -1,0 +1,17 @@
+-e src
+cython
+sacred
+pymongo
+jupyterlab
+ipywidgets
+pandas
+seaborn
+sklearn
+tqdm
+tensorboard
+dnspython
+transformers
+datasets
+captum
+shap
+xgboost
